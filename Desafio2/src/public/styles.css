@@ -167,6 +167,25 @@ body {
   background: #c15858;
 }
 
+.main-wrapper .content a.agendamentos {
+  background: #398c4e;
+  text-decoration: none;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  font-weight: bold;
+  font-size: 14px;
+  border: 0;
+  color: #fff;
+  margin-bottom: 15px;
+}
+
+.main-wrapper .content a.agendamentos:hover {
+  background: #317c44;
+}
+
 .main-wrapper .content p {
   font-size: 14px;
   color: #666;
